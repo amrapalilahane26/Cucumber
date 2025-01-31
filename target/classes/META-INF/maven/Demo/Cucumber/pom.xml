@@ -28,21 +28,13 @@
     <version>7.13.0</version>
 </dependency>
 
-
-
-
+<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
-    <groupId>org.fusesource.jansi</groupId>
-    <artifactId>jansi</artifactId>
-    <version>2.4.0</version>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.27.0</version>
 </dependency>
 
-<!-- https://mvnrepository.com/artifact/tech.grasshopper/cucumber-pdf-report -->
-<dependency>
-    <groupId>tech.grasshopper</groupId>
-    <artifactId>cucumber-pdf-report</artifactId>
-    <version>2.13.0</version>
-</dependency>
 
 
   </dependencies>
